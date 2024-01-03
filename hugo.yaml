@@ -1,0 +1,18 @@
+baseURL: "https://nafabrar.gitlab.io/blog/"
+canonifyurls: true
+relativeURLs: false
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: email
+      url: 'mailto:some@emailadres.com'
+
+
