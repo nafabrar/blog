@@ -2,6 +2,7 @@ baseURL: "https://nafabrar.gitlab.io/blog/"
 canonifyurls: true
 relativeURLs: false
 languageCode: en-us
+
 title: My New Hugo Site
 theme: PaperMod
 
